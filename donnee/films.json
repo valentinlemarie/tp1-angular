@@ -1,0 +1,27 @@
+{
+  "title" : "12 Rounds 3: Lockdown",
+  "releasedate": "Fri, 11 Sep 2015 00:00:00 -0700",
+  "studio" : "Lionsgate",
+  "poster" : "http://trailers.apple.com/trailers/lions_gate/12rounds3lockdown/images/poster.jpg",
+  "location" : "/trailers/lions_gate/12rounds3lockdown/",
+  "rating" : "R",
+  "genre" : ["Action and Adventure"],
+  "directors" : "Stephen Reynolds",
+  "actors" : [
+    "Dean Ambrose",
+    "Roger Cross",
+    "Daniel Cudmore",
+    "Lochlyn Munro",
+    "Ty Olsson",
+    "Sarah Smyth"
+  ],
+  "trailers": [
+    {
+      "postdate" : "Mon, 27 Jul 2015 00:00:00 -0700",
+      "url" : "/trailers/lions_gate/12rounds3lockdown/",
+      "type" : "Trailer",
+      "exclusive": false,
+      "hd" : true
+    }
+  ]
+}

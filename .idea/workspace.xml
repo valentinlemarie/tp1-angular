@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31fd0829-5b09-4d9b-ba36-390a151d363f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-script.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/donnee/films.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entite/Film.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entite/Formateur.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entite/Formation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entite/Personne.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entite/Stagiaire.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entite/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testFiles.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,22 +24,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="first-script.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-script.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="false">
@@ -40,15 +34,85 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="first-script.js.map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-script.js.map">
-          <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="sourcemapFileViewerProvider" />
+      <file leaf-file-name="Personne.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entite/Personne.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="42" selection-start-column="42" selection-end-column="42" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="first-script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-script.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Film.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entite/Film.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testFiles.spec.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/testFiles.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="80" column="63" selection-start-line="80" selection-start-column="63" selection-end-line="80" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="films.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/donnee/films.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Formateur.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entite/Formateur.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="types.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entite/types.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stagiaire.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entite/Stagiaire.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Formation.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entite/Formation.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -68,6 +132,15 @@
       <list>
         <option value="$PROJECT_DIR$/first-script.ts" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/donnee/films.json" />
+        <option value="$PROJECT_DIR$/test/testFiles.ts" />
+        <option value="$PROJECT_DIR$/entite/Stagiaire.ts" />
+        <option value="$PROJECT_DIR$/entite/Formation.ts" />
+        <option value="$PROJECT_DIR$/entite/Film.ts" />
+        <option value="$PROJECT_DIR$/entite/Personne.ts" />
+        <option value="$PROJECT_DIR$/entite/Formateur.ts" />
+        <option value="$PROJECT_DIR$/entite/types.ts" />
+        <option value="$PROJECT_DIR$/test/testFiles.spec.ts" />
       </list>
     </option>
   </component>
@@ -86,9 +159,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="962" />
-    <option name="y" value="10" />
-    <option name="width" value="1236" />
+    <option name="x" value="137" />
+    <option name="y" value="20" />
+    <option name="width" value="1666" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -104,6 +177,21 @@
               <item name="tp1" type="b2602c69:ProjectViewProjectNode" />
               <item name="tp1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tp1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp1" type="462c0819:PsiDirectoryNode" />
+              <item name="donnee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp1" type="462c0819:PsiDirectoryNode" />
+              <item name="entite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,6 +201,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -140,29 +229,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528359304510</updated>
-      <workItem from="1528359305705" duration="1163000" />
+      <workItem from="1528359305705" duration="15013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1163000" />
+    <option name="totallyTimeSpent" value="15013000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="962" y="10" width="1236" height="1047" extended-state="0" />
+    <frame x="137" y="20" width="1666" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20491803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15151516" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,15 +272,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/first-script.js.map">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/first-script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/first-script.ts">
@@ -205,6 +296,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/donnee/films.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entite/Stagiaire.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entite/Formation.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entite/Film.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entite/Personne.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entite/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entite/Formateur.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testFiles.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="80" column="63" selection-start-line="80" selection-start-column="63" selection-end-line="80" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
